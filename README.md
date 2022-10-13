@@ -35,7 +35,7 @@ The mission of OpenMRS is to improve health care delivery in resource-constraine
 10. [Support](#support)
 11. [License](#license)
 
-## Build
+## Build ##
 
 ### Prerequisites    
 
