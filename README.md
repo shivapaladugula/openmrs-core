@@ -239,7 +239,7 @@ If you would like to know how to help with translations see
 
 http://openmrs.org/join-the-community/translate/
 
-## Issues
+## Issues   
 
 If you want help fix existing issues or you found a bug and want to tell us please go to
 
