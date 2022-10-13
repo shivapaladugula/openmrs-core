@@ -67,7 +67,7 @@ Install the version control tool [git](https://git-scm.com/) and clone this repo
 git clone https://github.com/openmrs/openmrs-core.git
 ```
 
-### Build Command
+### Build Command  
 
 After you have taken care of the [Prerequisites](#prerequisites)
 
