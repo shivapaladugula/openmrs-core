@@ -37,7 +37,7 @@ The mission of OpenMRS is to improve health care delivery in resource-constraine
 
 ## Build
 
-### Prerequisites
+### Prerequisites    
 
 #### Java
 
