@@ -45,7 +45,7 @@ OpenMRS is a Java application which is why you need to install a Java JDK.
 
 If you want to build the master branch you will need a Java JDK of minimum version 8.
 
-#### Maven
+#### Maven  
 
 Install the build tool [Maven](https://maven.apache.org/).
 
